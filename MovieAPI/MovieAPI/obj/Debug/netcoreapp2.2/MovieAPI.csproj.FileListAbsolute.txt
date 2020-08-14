@@ -1,0 +1,3 @@
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.csproj.CoreCompileInputs.cache
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.AssemblyInfoInputs.cache
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.AssemblyInfo.cs

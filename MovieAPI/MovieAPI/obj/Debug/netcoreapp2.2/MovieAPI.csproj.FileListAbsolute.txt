@@ -1,3 +1,14 @@
 D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.csproj.CoreCompileInputs.cache
 D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.AssemblyInfoInputs.cache
 D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.AssemblyInfo.cs
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.2\MovieAPI.deps.json
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.2\MovieAPI.runtimeconfig.json
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.2\MovieAPI.runtimeconfig.dev.json
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.2\MovieAPI.dll
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\bin\Debug\netcoreapp2.2\MovieAPI.pdb
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.csprojAssemblyReference.cache
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.RazorAssemblyInfo.cache
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.RazorAssemblyInfo.cs
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.RazorTargetAssemblyInfo.cache
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.dll
+D:\Project\karyamurni\MovieApi\testcvkaryamurni\MovieAPI\MovieAPI\obj\Debug\netcoreapp2.2\MovieAPI.pdb
